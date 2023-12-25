@@ -1,0 +1,299 @@
+.ghgh123{
+    color: rgb(0, 0, 0) !important;
+}
+.babu1{
+    display: flex;
+}
+
+.container1{
+	background-color:green;
+}
+
+.round1{
+	border: 1px dotted #212529;
+	padding-left: 10px;
+    padding-right: 10px;
+}
+.d1{
+		border: 15px solid green;
+		padding: 40px;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		flex-direction: column;
+	}
+
+.anglemakeing{
+	position: absolute;
+    content: "";
+    top: 0;
+    left: -50%;
+    width: 100%;
+    height: 100%;
+    background: green;
+    transform: skew(20deg);
+    z-index: 1;;
+	}
+
+	.imgalin{
+		display: flex;
+		justify-content: center;
+	}
+
+	.fa-check{
+		content:"/f00c";
+        font-size:15px;
+	}
+
+	.babu3{
+		padding-left: 50px;
+		flex-basis: 50%;
+	}
+
+	.backimgnn{
+		background-image:url(../images/sdcsfdvcfvvf.jpg);
+	    background-size: 100% 100%;
+
+    margin-left: 200px;
+	}
+
+	.backclass{
+		flex-basis: 50%;
+	}
+
+	.backimgnn::before{
+		position: relative;
+    content: "";
+    top: 0;
+    left: -50%;
+    width: 100%;
+    height: 100%;
+    background: green;
+    transform: skew(20deg);
+    z-index: 1;
+	}
+
+	.row{
+		display: flex;
+	}
+
+	.backimgg{
+		background-image:url(../images/solar-panels-roof-new-modern-built-house-green-energy-from-sun-modern-sustainable-way-new-technology_158001-3498.jpg);
+		height: 300px;
+		background-size: 100% 100%;
+	}
+
+	.backimgg1{
+		background-image:url(../images/villa-with-pool.jpg);
+		height: 300px;
+		background-size: 100% 100%;
+	}
+
+	.backimgg2{
+		background-image:url(../images/w991x660.jpg);
+		height: 300px;
+		background-size: 100% 100%;
+	}
+
+	.backimgg3{
+		background-image:url(../images/belairroadmostexpensivehousevera.jpg);
+		height: 300px;
+		background-size: 100% 100%;
+	}
+
+	.backimgg4{
+		background-image:url(../images/modern-home.jpg);
+		height: 300px;
+		background-size: 100% 100%;
+	}
+
+	.backimgg5{
+		background-image:url(../images/flamingo-ave-siesta-key-print.jpg);
+		height: 300px;
+		background-size: 100% 100%;
+	}
+
+	
+	.fulldiv{
+		display: flex;
+		justify-content: center;
+	}
+
+	.imgagenting{
+		background-image:url(../images/call-to-action.jpg);
+	    height: 300px;
+    margin-left: 150px;
+    width: 500px;
+		background-size: 100% 100%;
+	}
+
+	.babu4{
+		padding-left: 50px;
+	}
+
+	.monttshadow{
+		box-shadow:2px 3px 5px red;
+	}
+
+	.linkx{
+		background-color:rgb(255, 255, 255);
+		padding: 0px 5px 0px 6px;
+	}
+
+	.card-body{
+		text-align: center;
+	}
+
+.lastcontact {
+    background-color: #0E2E50 !important;
+    /* height: 331px; */
+    width: 100%;
+    padding: 25px;
+}
+	.lastline{
+		display: flex;
+	}
+
+	.textdown{
+		color: aliceblue;
+		font-size:50px;
+	}
+
+	.wewe{
+		justify-content: center;
+	}
+
+	.lineheading{
+    padding-top: 50px;
+    padding-left: 50px;
+	}
+
+	.eerre{
+		color: aliceblue;
+	}
+
+	.lining{
+	width: 90%;
+    color: white;
+    margin: auto;
+    margin-top: 20px;
+	}
+	
+.slik{
+}
+	.sliderr{
+		
+
+	}
+
+	.fa-location-dot{
+		content:"/f3c5"
+	}
+
+	.fa-phone{
+		content:"/fa-phone"
+	}
+
+	.fa-envelope{
+		content:"/f0e0"
+	}
+
+	.fa-twitter{
+		content:"/f099"
+	}
+
+
+	.fa-facebook{
+		content:"/f09a"
+	}
+
+	.fa-youtube{
+		content:"/f167"
+	}
+
+	.fa-linkedin{
+		content:"/f08c"
+	}
+
+	.fontwork{
+		font-size: 20px;
+		color:aliceblue;
+	}
+
+	.fa-arrow-left:before {
+		position: absolute;
+    bottom: 45%;
+    z-index: 132;
+    left: -30px;
+    font-size: 15px;
+    background: #00B98E;
+    border-radius: 50%;
+    padding: 10px;
+    color: white;
+	}
+
+	.fa-arrow-right:before {
+		position: absolute;
+		bottom: 45%;
+		z-index: 132;
+		right: -30px;
+		font-size: 15px;
+		background: #00B98E;
+		border-radius: 50%;
+		padding: 10px;
+		color: white;
+	}
+
+	.sliderrx{
+		margin:20px;
+		border-radius: 5px;
+		border: 1px dashed rgba(0, 185, 142, .3) !important;
+		padding: 12px;
+		background: white;
+		outline-style: solid blue;
+		box-shadow: 1px 1px 6px 6px #d2ffe5;
+	}
+
+	.rtrr{
+		border: 1px solid white;
+		gap: 5px;
+	}
+
+	.btn121:focus{
+		background: none !important; 
+		outline: 0px !important;
+		color: white !important;
+	}
+
+	.btn121{
+		background: none !important; 
+		outline: 0px !important;
+		color: white !important;
+	}
+
+
+	.lining{
+		width: 90%;
+		color: white;
+		margin: auto;
+		margin-top: 20px;
+		}
+	
+		.minlatline{
+			display: flex;
+		}
+		.fixinglingh{
+	   flex-basis: 50%;
+		}
+		
+		.tytu{  
+		  flex-basis: 50%;
+			padding-top: 10px;
+			padding-left: 270px;
+		}
+	
+		.eerr{
+			color: aliceblue;
+			margin-inline: 10px;
+		}
+	
